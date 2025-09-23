@@ -1,99 +1,67 @@
-# BetterMarketPlus
+# 《菜市场模拟器》 IceBox Mods Issues 🧊
 
-[English](#english) | [中文](#中文)
+欢迎来到 《菜市场模拟器》 IceBox 模组系列的问题反馈与建议收集仓库！
 
----
+本仓库是以下三个模组的**官方反馈通道**：
 
-## 中文
+## 📦 支持的模组
 
-BetterMarketPlus 修复了原版 BetterMarket 模组因游戏版本更新导致的问题以及错误并增加了多个新功能和新的调整，改善了原版游戏体验。
+### 🛒 BetterMarketPlus
+- **功能描述**：修复原始 BetterMarket 模组因游戏版本更新导致的问题和错误，并在调整和增强原有游戏体验的同时，增加了更多新内容和功能。
 
-> ⚠️ **注意**: 这个仓库仅用于 Bug 反馈和问题跟踪，不包含模组源代码。
+### 🔧 BuyMoreFixed
+- **功能描述**：解锁每日码头订购上限的重写修复版本
 
-### 🚀 功能特性
+### 🎣 AutoRestockFishFixed
+- **功能描述**：自动从地窖中补充鱼的重写修复版本
 
-- **优化提示信息**: 改进动物、工作坊机器、树木和作物的提示信息显示
-- **🆕 树木移动**: 树木现在可以在按下 `冲刺键 + 锄头` 的情况下无损移动（保留树木成长天数、收获量、收获次数、蜂巢状态）
-- **🆕 洒水器范围**: 小型洒水器和大型洒水器现在会显示可浇灌的范围
-- **🆕 蜂箱信息**: 蜂箱现在会显示剩余天数、周围树木和预计产出数量以及范围
-- **增强金币信息**: 鼠标悬停在"金币"上时，左上角菜单中会显示更多信息
-  - **🆕 财务详情**: 在原模组显示的内容上增加了销售总额、应缴税费、当前税率、净利润、总支出
-- **🆕 日志界面**: 在日志界面增加了和鼠标悬停在"金币"上时相同的内容
-- **自由放置**: 地面标示、墙面标示、大围栏、小围栏、纸灯笼、吊灯和壁灯可放置在任何地方
-- **配方信息**: 配方现在会显示所需天数
-- **45度旋转**: 物品和方块现在可以 45 度旋转
-- **库存查看**: 在码头购买产品时可查看库存数量
-- **🆕 多语言支持**: 默认支持简体中文、繁体中文、英语，根据游戏语言自动切换模组语言
+## 🐛 如何报告问题
 
-### 🌍 语言支持
+在提交问题前，请确保：
 
-模组会根据游戏语言自动切换。翻译文件位于 `BepInEx\config\BetterMarketPlus\Localization` 目录下，格式为 `语言代码.json`。
+1. **搜索现有问题**：检查是否已有相同或类似的问题报告
+2. **确认模组版本**：请在问题中注明具体的模组版本号
+3. **提供详细信息**：包括游戏版本、其他模组列表、错误日志等
 
-**当前支持的语言代码**: `fr`, `de`, `ja`, `ko`, `pt`, `ru`, `es`, `tr`, `uk`
+## 🏷️ 问题标签说明
 
-欢迎贡献翻译文件或将翻译发送给我以加入默认语言包。
+- ![bug](https://img.shields.io/badge/-bug-d73a4a) **Bug**：模组功能异常或错误
+- ![enhancement](https://img.shields.io/badge/-enhancement-a2eeef) **功能增强**：新功能建议
+- ![question](https://img.shields.io/badge/-question-d876e3) **疑问**：使用相关的问题咨询
+- ![BetterMarketPlus](https://img.shields.io/badge/-BetterMarketPlus-0075ca) **BetterMarketPlus**：相关问题
+- ![BuyMoreFixed](https://img.shields.io/badge/-BuyMoreFixed-0e8a16) **BuyMoreFixed**：相关问题
+- ![AutoRestockFishFixed](https://img.shields.io/badge/-AutoRestockFishFixed-fbca04) **AutoRestockFishFixed**：相关问题
 
-### ⚙️ 兼容性
+## 📞 联系方式
 
-- **游戏版本**: 1.6.5+
-- **模组冲突**: 与原始模组 BetterMarket 冲突，不能同时使用
-- **智能兼容**: 自动检测 BetterOrder 模组的库存显示状态，并智能启用/禁用自身的库存显示功能
+- **GitHub Issues**：本仓库的主要反馈渠道
+- **Steam**：各模组的 Steam 创意工坊页面
 
-### 🐛 问题反馈
+## 📋 贡献指南
 
-如果您遇到任何问题或有功能建议，请：
+我们欢迎社区的贡献！如果您想要：
 
-1. 查看 [Issues](../../issues) 页面确认问题是否已被报告
-2. 如果是新问题，请 [创建新的 Issue](../../issues/new)
-3. 请提供详细的问题描述、游戏版本、模组版本等信息
+- 🐛 报告bug
+- 💡 提出新功能建议
+- 📖 改进文档
+- 🔧 提供解决方案
 
----
+请遵循我们的问题报告格式，并保持友好和建设性的交流。
 
-## English
+## ⚠️ 注意事项
 
-BetterMarketPlus fixes issues and errors in the original BetterMarket mod caused by game version updates and adds multiple new features and adjustments, improving the original game experience.
+1. **仅限相关问题**：请只报告与上述三个模组相关的问题
+2. **避免重复**：提交前请搜索现有问题
+3. **保持耐心**：开发者会尽力及时回复，但请理解可能需要一些时间
+4. **提供详情**：详细的问题描述有助于更快地解决问题
 
-> ⚠️ **Note**: This repository is only for bug reports and issue tracking, and does not contain the mod source code.
+## 📊 统计信息
 
-### 🚀 Features
-
-- **Optimized Tooltips**: Improved tooltips for animals, workshop machines, trees, and crops
-- **🆕 Tree Movement**: Trees can now be moved losslessly by holding `Sprint Key + Hoe` (preserves tree growth days, harvest amount, harvest times, beehive state)
-- **🆕 Sprinkler Range**: Small and large sprinklers now display their irrigation range
-- **🆕 Beehive Information**: Beehives now show remaining days, surrounding trees, estimated output quantity, and range
-- **Enhanced Coin Information**: More information is displayed in the top-left menu when hovering over "coins"
-  - **🆕 Financial Details**: Added total sales, taxes payable, current tax rate, net profit, and total expenses to the original mod's display
-- **🆕 Journal Interface**: Added the same financial information to the journal interface
-- **Free Placement**: Floor signs, wall signs, big fences, small fences, paper lanterns, chandeliers, and wall candles can be placed anywhere
-- **Recipe Information**: Recipes now show required days
-- **45-Degree Rotation**: Items and blocks can now be rotated by 45 degrees
-- **Stock Viewing**: Stock quantity can be checked when purchasing products at the dock
-- **🆕 Multi-language Support**: Default support for Simplified Chinese, Traditional Chinese, and English, with automatic language switching based on game language
-
-### 🌍 Language Support
-
-The mod automatically switches language based on the game language. Translation files are located in the `BepInEx\config\BetterMarketPlus\Localization` directory, in the format `LanguageCode.json`.
-
-**Currently supported language codes**: `fr`, `de`, `ja`, `ko`, `pt`, `ru`, `es`, `tr`, `uk`
-
-Contributions for translation files are welcome, or you can send translations to me to be included as default languages.
-
-### ⚙️ Compatibility
-
-- **Game Version**: 1.6.5+
-- **Mod Conflicts**: Conflicts with the original BetterMarket mod, cannot be used simultaneously
-- **Smart Compatibility**: Intelligently detects the inventory display status of the BetterOrder mod and automatically enables/disables its own inventory display function
-
-### 🐛 Bug Reports
-
-If you encounter any issues or have feature suggestions, please:
-
-1. Check the [Issues](../../issues) page to see if the problem has already been reported
-2. If it's a new issue, please [create a new Issue](../../issues/new)
-3. Please provide detailed problem description, game version, mod version, and other relevant information
+![GitHub issues](https://img.shields.io/github/issues/ibox233/OMS_IceBox_Mods_Issues)
+![GitHub closed issues](https://img.shields.io/github/issues-closed/ibox233/OMS_IceBox_Mods_Issues)
 
 ---
 
-### 📝 License
+**感谢您使用 《菜市场模拟器》 IceBox 模组系列！您的反馈对我们改进模组质量非常重要。** 🙏
 
-This project is for issue tracking purposes only. Please refer to the actual mod distribution for licensing information.
+*最后更新：[2025年09月23日]*
