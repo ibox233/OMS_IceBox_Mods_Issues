@@ -29,7 +29,7 @@
 2. **确认模组版本**：请在问题中注明具体的模组版本号
 3. **提供详细信息**：包括游戏版本、其他模组列表、错误日志等
 
-## 🏷️ 问题标签说明
+## 问题标签说明
 
 - ![bug](https://img.shields.io/badge/-bug-d73a4a) **Bug**：模组功能异常或错误
 - ![enhancement](https://img.shields.io/badge/-enhancement-a2eeef) **功能增强**：新功能建议
@@ -37,15 +37,15 @@
 - ![BetterMarketPlus](https://img.shields.io/badge/-BetterMarketPlus-0075ca) **BetterMarketPlus**：相关问题
 - ![BuyMoreFixed](https://img.shields.io/badge/-BuyMoreFixed-0e8a16) **BuyMoreFixed**：相关问题
 - ![AutoRestockFishFixed](https://img.shields.io/badge/-AutoRestockFishFixed-fbca04) **AutoRestockFishFixed**：相关问题
-- ![DropAllStack](https://img.shields.io/badge/-AutoRestockFishFixed-ffca04) **DropAllStack**：相关问题
-- ![InventorySelectionHighlight](https://img.shields.io/badge/-AutoRestockFishFixed-bbca04) **InventorySelectionHighlight**：相关问题
+- ![DropAllStack](https://img.shields.io/badge/-DropAllStack-fffa04) **DropAllStack**：相关问题
+- ![InventorySelectionHighlight](https://img.shields.io/badge/-InventorySelectionHighlight-bbca04) **InventorySelectionHighlight**：相关问题
 
 ## 联系方式
 
 - **GitHub Issues**：本仓库的主要反馈渠道
 - **Steam**：[https://steamcommunity.com/id/ibox666/](https://steamcommunity.com/id/ibox666/)
 
-## 📋 贡献指南
+## 贡献指南
 
 我们欢迎社区的贡献！如果您想要：
 
