@@ -51,8 +51,8 @@
 - ![AutoRestockFishFixed](https://img.shields.io/badge/-AutoRestockFishFixed-fbca04) **AutoRestockFishFixed**：相关问题
 - ![DropAllStack](https://img.shields.io/badge/-DropAllStack-fffa04) **DropAllStack**：相关问题
 - ![InventorySelectionHighlight](https://img.shields.io/badge/-InventorySelectionHighlight-bbca04) **InventorySelectionHighlight**：相关问题
-- ![FruitTreeIgnoreSeason](https://img.shields.io/badge/-FruitTreeIgnoreSeason-fafa04) **FruitTreeIgnoreSeason**：相关问题
-- ![WorkshopNoSpoil](https://img.shields.io/badge/-WorkshopNoSpoil-abca04) **WorkshopNoSpoil**：相关问题
+- ![FruitTreeIgnoreSeason](https://img.shields.io/badge/-FruitTreeIgnoreSeason-f58674) **FruitTreeIgnoreSeason**：相关问题
+- ![WorkshopNoSpoil](https://img.shields.io/badge/-WorkshopNoSpoil-63d268) **WorkshopNoSpoil**：相关问题
 
 ### 联系方式
 
@@ -110,8 +110,8 @@ Before submitting an issue, please ensure:
 - ![AutoRestockFishFixed](https://img.shields.io/badge/-AutoRestockFishFixed-fbca04) **AutoRestockFishFixed**: Related issues
 - ![DropAllStack](https://img.shields.io/badge/-DropAllStack-fffa04) **DropAllStack**: Related issues
 - ![InventorySelectionHighlight](https://img.shields.io/badge/-InventorySelectionHighlight-bbca04) **InventorySelectionHighlight**: Related issues
-- ![FruitTreeIgnoreSeason](https://img.shields.io/badge/-FruitTreeIgnoreSeason-fafa04) **FruitTreeIgnoreSeason**: Related issues
-- ![WorkshopNoSpoil](https://img.shields.io/badge/-WorkshopNoSpoil-abca04) **WorkshopNoSpoil**: Related issues
+- ![FruitTreeIgnoreSeason](https://img.shields.io/badge/-FruitTreeIgnoreSeason-f58674) **FruitTreeIgnoreSeason**: Related issues
+- ![WorkshopNoSpoil](https://img.shields.io/badge/-WorkshopNoSpoil-63d268) **WorkshopNoSpoil**: Related issues
 
 ### Contact Information
 
