@@ -15,12 +15,14 @@
 - AutoPlantAllDirt
 - AutoRestockFishFixed
 - BetterMarketPlus
+- BetterTweaks
 - BuyMoreFixed
 - DropAllStack
 - FruitTreeIgnoreSeason
 - InventorySelectionHighlight
 - LightColorSwitcher
 - MarketCompass
+- ModConfigManager
 - PlayerFlashlight
 - SimpleInGameChat
 - WorkshopNoSpoil
@@ -44,7 +46,7 @@
 - **GitHub Issues**：主要反馈渠道
 - **Steam**：[https://steamcommunity.com/id/ibox666/](https://steamcommunity.com/id/ibox666/)
 
-*最后更新：2026年01月31日*
+*最后更新：2026年03月29日*
 
 ---
 
@@ -59,12 +61,14 @@ This repository is the **official feedback channel** for the following mods:
 - AutoPlantAllDirt
 - AutoRestockFishFixed
 - BetterMarketPlus
+- BetterTweaks
 - BuyMoreFixed
 - DropAllStack
 - FruitTreeIgnoreSeason
 - InventorySelectionHighlight
 - LightColorSwitcher
 - MarketCompass
+- ModConfigManager
 - PlayerFlashlight
 - SimpleInGameChat
 - WorkshopNoSpoil
@@ -88,4 +92,4 @@ Before submitting an issue, please ensure:
 - **GitHub Issues**: The primary feedback channel
 - **Steam**: [https://steamcommunity.com/id/ibox666/](https://steamcommunity.com/id/ibox666/)
 
-*Last Updated: January 31, 2026*
+*Last Updated: March 29, 2026*
