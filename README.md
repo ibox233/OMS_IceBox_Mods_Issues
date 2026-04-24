@@ -1,4 +1,4 @@
-# 《菜市场模拟器》 IceBox Mods Issues / Old Market Simulator IceBox Mods Issues
+# Supermarket Together IceBox Mods Issues
 
 [中文](#中文) | [English](#english)
 
@@ -6,26 +6,14 @@
 
 ## 中文
 
-欢迎来到 IceBox 的 《菜市场模拟器》 系列模组的问题反馈与建议收集仓库！
+欢迎来到 IceBox 的 《Supermarket Together》 系列模组的问题反馈与建议收集仓库！
 
 本仓库是以下模组的**官方反馈通道**：
 
 ### 支持的模组
 
-- AutoPlantAllDirt
-- AutoRestockFishFixed
-- BetterMarketPlus
-- BetterTweaks
-- BuyMoreFixed
-- DropAllStack
-- FruitTreeIgnoreSeason
-- InventorySelectionHighlight
-- LightColorSwitcher
-- MarketCompass
-- ModConfigManager
-- PlayerFlashlight
-- SimpleInGameChat
-- WorkshopNoSpoil
+- Bulk Box Wheel
+- Quick Box Recycle
 
 ### 如何报告问题
 
@@ -46,32 +34,20 @@
 - **GitHub Issues**：主要反馈渠道
 - **Steam**：[https://steamcommunity.com/id/ibox666/](https://steamcommunity.com/id/ibox666/)
 
-*最后更新：2026年03月29日*
+*最后更新：2026年04月24日*
 
 ---
 
 ## English
 
-Welcome to the IceBox's Old Market Simulator mod series issue feedback and suggestion collection repository!
+Welcome to the IceBox's Supermarket Together mod series issue feedback and suggestion collection repository!
 
 This repository is the **official feedback channel** for the following mods:
 
 ### Supported Mods
 
-- AutoPlantAllDirt
-- AutoRestockFishFixed
-- BetterMarketPlus
-- BetterTweaks
-- BuyMoreFixed
-- DropAllStack
-- FruitTreeIgnoreSeason
-- InventorySelectionHighlight
-- LightColorSwitcher
-- MarketCompass
-- ModConfigManager
-- PlayerFlashlight
-- SimpleInGameChat
-- WorkshopNoSpoil
+- Bulk Box Wheel
+- Quick Box Recycle
 
 ### How to Report Issues
 
@@ -92,4 +68,4 @@ Before submitting an issue, please ensure:
 - **GitHub Issues**: The primary feedback channel
 - **Steam**: [https://steamcommunity.com/id/ibox666/](https://steamcommunity.com/id/ibox666/)
 
-*Last Updated: March 29, 2026*
+*Last Updated: April 29, 2026*
