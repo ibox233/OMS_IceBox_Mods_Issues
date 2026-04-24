@@ -93,6 +93,3 @@ Before submitting an issue, please ensure:
 - **Steam**: [https://steamcommunity.com/id/ibox666/](https://steamcommunity.com/id/ibox666/)
 
 *Last Updated: March 29, 2026*
-
-
-*Last Updated: April 29, 2026*
